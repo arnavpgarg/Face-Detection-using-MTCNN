@@ -4,14 +4,14 @@ This repository consists two files of face detection, in and image and in a vide
 If you wnat to use this repository, you must use the image or video made on your own, and add the image/video file path in the specific line.
 
 You must install the specific libraries first, after setting a virtual environment
-for creating virtual environment (for UBUNTU OS)-
-. python3 -m venv [name] (creating the environment)
+for creating virtual environment (for UBUNTU OS)- <br>
+. python3 -m venv [name] (creating the environment) <br>
 . source [name]/bin/activate (activating the environment in the terminal)
 
-Libraries to be installed-
+Libraries to be installed- <br>
 . pip install tensorflow <br>
-. pip install mtcnn
-. pip install opencv-python
+. pip install mtcnn <br>
+. pip install opencv-python <br>
 
 Running the file- python3 app.py/vid.py (for ubuntu OS only).
 
