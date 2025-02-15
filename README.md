@@ -9,7 +9,7 @@ for creating virtual environment (for UBUNTU OS)-
 . source [name]/bin/activate (activating the environment in the terminal)
 
 Libraries to be installed-
-. pip install tensorflow
+. pip install tensorflow <br>
 . pip install mtcnn
 . pip install opencv-python
 
